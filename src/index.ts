@@ -20,7 +20,7 @@ export class LotrSdk {
   readonly _quotesService: QuoteService;
   readonly _chaptersService: ChapterService;
 
-  constructor({ apiKey }: InitParams) {
+  constructor({ apiKey }: InitParams = {}) {
     this._apiKey = apiKey;
     this._bookService = new BookService();
     this._movieService = new MovieService();
