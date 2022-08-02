@@ -1,5 +1,5 @@
 {
-  "name": "simple-lotr-sdk",
+  "name": "anton-fedosieiev-sdk",
   "version": "1.0.0",
   "description": "Simple LOTR SDK",
   "main": "lib/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anton-fedoseev/simple-lotr-sdk.git"
+    "url": "git+https://github.com/anton-fedoseev/anton-fedosieiev-sdk.git"
   },
   "keywords": [
     "LOTR",
@@ -26,12 +26,12 @@
   "author": "Anton Fedosieiev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anton-fedoseev/simple-lotr-sdk/issues"
+    "url": "https://github.com/anton-fedoseev/anton-fedosieiev-sd/issues"
   },
   "files": [
     "lib/**/*"
   ],
-  "homepage": "https://github.com/anton-fedoseev/simple-lotr-sdk#readme",
+  "homepage": "https://github.com/anton-fedoseev/anton-fedosieiev-sd#readme",
   "devDependencies": {
     "@types/jest": "^28.1.6",
     "@types/node-fetch": "^2.6.2",
